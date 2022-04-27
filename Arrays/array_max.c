@@ -1,6 +1,6 @@
-/* Average of all the elements of the array */
+/* Maximum of all the elements of the array */
 
-#include<stdio.h>
+#include <stdio.h>
 void main()
 {
   const int size = 5;
