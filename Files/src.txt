@@ -1,0 +1,1 @@
+This is C program to copy content of one file to another
