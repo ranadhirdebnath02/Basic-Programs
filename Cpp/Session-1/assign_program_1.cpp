@@ -1,5 +1,7 @@
-/* Write a function, which will prompt user to enter a number, 
-after that it will show whether it is odd or even. */
+/*
+Write a function, which will prompt user to enter a number, 
+after that it will show whether it is odd or even.
+*/
 
 #include <iostream>
 using namespace std;
