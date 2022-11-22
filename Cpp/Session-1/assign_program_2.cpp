@@ -1,5 +1,5 @@
 /*
-Modify the previous program (assign_program_1.cpp) 
+Modify the previous program (assign_program_1.cpp)
 in such a way so that it will take a number as
 parameter and prompt whether it is odd or even.
 */
