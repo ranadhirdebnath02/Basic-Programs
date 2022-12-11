@@ -21,12 +21,16 @@ public class AssignmentProgram8 {
     System.out.println("\nStudent Name: " + name);
     if (mark >= 85) {
       System.out.println("Performance: Excellent");
-    } else if (mark >= 75 && mark < 85) {
-      System.out.println("Performance: Very Good");
-    } else if (mark >= 50 && mark < 75) {
-      System.out.println("Performance: Good");
     } else {
-      System.out.println("Performance: Fair");
+      if (mark >= 75 && mark < 85) {
+        System.out.println("Performance: Very Good");
+      } else {
+        if (mark >= 50 && mark < 75) {
+          System.out.println("Performance: Good");
+        } else {
+          System.out.println("Performance: Fair");
+        }
+      }
     }
     sc.close();
   }
