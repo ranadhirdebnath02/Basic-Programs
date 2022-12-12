@@ -36,5 +36,6 @@ public class AssignmentProgram11 {
     } else if (currentMonth.toLowerCase().equals("december")) {
       System.out.println("Winter");
     }
+    sc.close();
   }
 }
